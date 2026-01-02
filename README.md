@@ -7,7 +7,7 @@ I am a Computer Science student affiliated with the **University of Westminster*
 - 🔭 **Currently working on:** Java OOP concepts and a Garbage Management System (SDGP).
 - 🌱 **Learning:** Database Design, Advanced Java, and React.
 - 👯 **Looking to collaborate on:** Open source student projects, UI/UX Design (Figma), and Creative Content.
-- 🤝 **Community:** Active member of **Sasnaka Sansada Foundation** (Leadership Pillar).
+- 🤝 **Community:** Active member of **Sasnaka Sansada Foundation**.
 - ⚡ **Fun fact:** I'm an ambivert who can switch between coding in silence and organizing massive community events!
 
 ---

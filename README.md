@@ -2,7 +2,7 @@
 
 ### 👨‍💻 CS Undergraduate @ IIT Sri Lanka | 🎬 Tech & Creative Enthusiast
 
-I am a first-year Computer Science student affiliated with the **University of Westminster**. I bridge the gap between code and creativity, balancing software development with community leadership.
+I am a Computer Science student affiliated with the **University of Westminster**. I bridge the gap between code and creativity, balancing software development with community leadership.
 
 - 🔭 **Currently working on:** Java OOP concepts and a Garbage Management System (SDGP).
 - 🌱 **Learning:** Database Design, Advanced Java, and React.
@@ -23,13 +23,6 @@ I am a first-year Computer Science student affiliated with the **University of W
 
 ---
 
-### 📊 Github Stats
-
-![Ilman's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilman_fazny&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilman_fazny&layout=compact&theme=radical)
-
----
-
 ### 📫 Connect with Me
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' />](INSERT_YOUR_LINKEDIN_URL_HERE)
-[<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' />](INSERT_YOUR_INSTAGRAM_URL_HERE)
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' />](www.linkedin.com/in/ilman-fazny)
+[<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' />](www.instagram.com/ilman_fazny)

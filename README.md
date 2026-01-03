@@ -4,7 +4,7 @@
 
 I am a Computer Science student affiliated with the **University of Westminster**. I bridge the gap between code and creativity, balancing software development with community leadership.
 
-- 🔭 **Currently working on:** Java OOP concepts and a Garbage Management System (SDGP).
+- 🔭 **Currently working on:** Backend in a Garbage Management System (SDGP).
 - 🌱 **Learning:** Database Design, Advanced Java, and React.
 - 👯 **Looking to collaborate on:** Open source student projects, UI/UX Design (Figma), and Creative Content.
 - 🤝 **Community:** Active member of **Sasnaka Sansada Foundation**.

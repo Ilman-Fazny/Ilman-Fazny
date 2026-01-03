@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Hi+there!+It's+Ilman+Fazny;CS+Undergraduate;Code+%2B+Creativity;Community+Leader+%40+Sasnaka" alt="Typing SVG" />
+</div>
+
+---
 # Hi there, I'm Ilman Fazny! 👋
 
 ### 👨‍💻 CS Undergraduate @ IIT Sri Lanka | 🎬 Tech & Creative Enthusiast
@@ -11,19 +16,22 @@ I am a Computer Science student affiliated with the **University of Westminster*
 - ⚡ **Fun fact:** I'm an ambivert who can switch between coding in silence and organizing massive community events!
 
 ---
-
-### 🛠️ Languages and Tools
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white)
+<h2 align="center">🛠️ Tech Stack</h2>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,mysql,figma,pr,git" />
+</div>
+<br/>
 
 ---
+<h2 align="center">📫 Connect with Me</h2>
+<div align="center">
+  <a href="https://www.linkedin.com/in/ilman-fazny">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/ilman_fazny">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</div>
 
-### 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilman-fazny)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ilman_fazny)
+<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=120&text=Let's%20Build%20Something%20Great.&fontSize=25&animation=fadeIn&fontAlignY=40" width="100%" />

@@ -14,7 +14,7 @@ I'm a **2nd-year Software Engineering undergraduate** at **IIT Sri Lanka** (Univ
 
 I don't just write code. I think about systems, design experiences, and build things that work end-to-end.
 
-- 🎓 **SE Undergrad** · IIT Sri Lanka × University of Westminster
+- 🎓 **CS Undergrad** · IIT Sri Lanka × University of Westminster
 - 🔭 **Currently building:** Zentage - a live event seat booking system
 - 🤖 **Recent:** Fraud Detection ML model using scikit-learn, XGBoost & FastAPI
 - 🌍 **Open source:** SSoC Season 5 contributor
